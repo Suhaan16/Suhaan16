@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,nodejs,spring,docker,kafka,kubernetes,aws,gcp,git,vscode,html,css,js,typescript,express,nextjs,nestjs,react,vim,python,flask,django,tensorflow,pytorch,tailwind,redis,graphql,mongodb,mysql,linux,bash,unity&theme=dark)](https://github.com/Suhaan16)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,typescript,express,nextjs,nestjs,react,vim,flask,django,tensorflow,pytorch,tailwind,redis,graphql,mongodb,mysql,java,nodejs,spring,docker,kafka,kubernetes,aws,gcp,git,vscode,,c,cpp,linux,bash,unity&theme=dark)](https://github.com/Suhaan16)
