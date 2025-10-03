@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 <hr><br>
 
 
+
 ## 💻 Technologies that I have worked
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,go,nodejs,spring,docker,kafka,kubernetes,aws,gcp,git,vscode,html,css,js,typescript,express,nextjs,nestjs,react,vim,python,flask,django,tensorflow,pytorch,tailwind,redis,graphql,mongodb,mysql,linux,bash,unity&theme=dark)](https://github.com/Suhaan16)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,nodejs,spring,docker,kafka,kubernetes,aws,gcp,git,vscode,html,css,js,typescript,express,nextjs,nestjs,react,vim,python,pandas,scikit-learn,LLM,flask,django,tensorflow,pytorch,tailwind,redis,graphql,mongodb,mysql,linux,bash,unity&theme=dark)](https://github.com/Suhaan16)
